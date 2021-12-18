@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+body{
+    width:500px;
+
+}
+div {
+    border:1px solid gray;
+    padding:10px;
+}

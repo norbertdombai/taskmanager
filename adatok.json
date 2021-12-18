@@ -1,0 +1,34 @@
+{
+
+        "task": [
+          {
+            "nev": "1. feladat",
+            "leiras": "leiras1",
+            "allapot": "tesztelés",
+            "hatarido": "2021-11-09",
+            "keszito": "Kis Péter"
+          },
+          {
+            "nev": "2. feladat",
+            "leiras": "leiras2",
+            "allapot": "folyamatban",
+            "hatarido": "2021-08-22",
+            "keszito": "Nagy István"
+          }],
+        
+            "user": 
+            [
+                {
+                    "user_id": 1,
+                    "name": "Kis Péter"
+                },
+                {
+                    "user_id": 2,
+                    "name": "Nagy István"
+                }
+                ]
+            }
+
+
+           
+
